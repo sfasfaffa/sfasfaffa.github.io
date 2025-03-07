@@ -1,4 +1,5 @@
 <h2>deep_reasoning.tex</h2>
+
 ### Deep Reasoning Execution
 
 - *Generative language modeling for automated theorem proving*, **Polu et al.**, `2020.09` [[Link](https://arxiv.org/abs/2009.03393)]
@@ -66,6 +67,7 @@ Lample and Lucile Saulnier and Lélio Renard Lavaud and Marie-Anne Lachaux and P
 - *Unlocking the Potential of Reinforcement Learning in Improving Reasoning Models*, **NovaSky Team et al.**, `2025.02`
 - *QwQ: Reflect Deeply on the Boundaries of the Unknown*, **QwQ Team et al.**, `2025.11`
 
+
 ### Deep Reasoning Learning
 
 - *Thinking fast and slow with deep learning and tree search*, **Anthony et al.**, `2017.12`
@@ -117,6 +119,7 @@ Lample and Lucile Saulnier and Lélio Renard Lavaud and Marie-Anne Lachaux and P
 - *LIMO: Less is More for Reasoning*, **Ye et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.03387)]
 - *BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation*, **Pang et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.03860)]
 <h2>extensive_exploration.tex</h2>
+
 ### Exploration Scaling
 
 - *Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation*, **Lyzhov et al.**, `2020.08` [[Link](https://proceedings.mlr.press/v124/lyzhov20a.html)]
@@ -177,6 +180,7 @@ et al.**, `2025.01` [[Link](https://openreview.net/forum?id=GBIUbwW9D8)]
 - *S*: Test Time Scaling for Code Generation*, **Li et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.14382)]
 - *Is Depth All You Need? An Exploration of Iterative Reasoning in LLMs*, **Wu et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.10858)]
 
+
 ### External Exploration
 
 - *Least-to-Most Prompting Enables Complex Reasoning in Large Language Models*, **Denny Zhou and Nathanael Sch{\"a}rli and Le Hou and Jason Wei and Nathan Scales and Xuezhi Wang and Dale Schuurmans and Claire Cui and Olivier Bousquet and Quoc V Le and Ed H. Chi et al.**, `2023.02` [[Link](https://openreview.net/forum?id=WZH7099tgfM)]
@@ -234,6 +238,7 @@ et al.**, `2025.01` [[Link](https://openreview.net/forum?id=GBIUbwW9D8)]
 - *QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search*, **Lin et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.02584)]
 - *CritiQ: Mining Data Quality Criteria from Human Preferences*, **Guo et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.19279)]
 
+
 ### Internal Exploration
 
 - *Policy Gradient Methods for Reinforcement Learning with Function Approximation*, **Sutton et al.**, `1999.12` [[Link](https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)]
@@ -286,6 +291,7 @@ and Tianjun Zhang and Li Erran Li and Raluca Ada Popa and Ion Stoica et al.**, `
 - *STeCa: Step-level Trajectory Calibration for LLM Agent Learning*, **Wang et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.14276)]
 - *Thinking Preference Optimization*, **Yang et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.13173)]
 <h2>feasible_reflection.tex</h2>
+
 ### Feedback
 
 - *Concrete problems in AI safety*, **Amodei et al.**, `2016.06` [[Link](https://arxiv.org/abs/1606.06565)]
@@ -389,6 +395,7 @@ Ruobing Xie and Yankai Lin and Zhenghao Liu and Bowen Zhou and Hao Peng and Zhiy
 - *Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems*, **Peng et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.19328)]        
 - *QwQ: Reflect Deeply on the Boundaries of the Unknown*, **QwQ Team et al.**, `2025.11`
 
+
 ### Refinement
 
 - *Self-critiquing models for assisting human evaluators*, **Saunders et al.**, `2022.06` [[Link](https://arxiv.org/abs/2206.05802)]
@@ -446,6 +453,7 @@ Ruobing Xie and Yankai Lin and Zhenghao Liu and Bowen Zhou and Hao Peng and Zhiy
 - *MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification*, **Sun et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.13383)]
 - *ARIES: Stimulating Self-Refinement of Large Language Models by Iterative Preference Optimization*, **Zeng et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.05605)]
 <h2>analysis.tex</h2>
+
 ### Analysis \& Explanation for Long CoT
 
 - *Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation*, **Lyzhov et al.**, `2020.08` [[Link](https://proceedings.mlr.press/v124/lyzhov20a.html)]
@@ -517,6 +525,7 @@ Ruobing Xie and Yankai Lin and Zhenghao Liu and Bowen Zhou and Hao Peng and Zhiy
 - *OverThink: Slowdown Attacks on Reasoning LLMs*, **Kumar et al.**, `2025.02`
 - *PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models*, **Anderson et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.01584)]
 - *Scaling Test-Time Compute Without Verification or RL is Suboptimal*, **Setlur et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.12118)]
+
 
 ### Long CoT Evaluations
 
@@ -605,6 +614,7 @@ and Haoran Ranran Zhang and Sujeeth Reddy Vummanthala and Salika Dave and Shaobo
 - *Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research*, **Wu et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.04644)]
 - *Open Deep Research*, **OpenDeepResearch Team et al.**, `2025.02`
 <h2>future.tex</h2>
+
 ### Agentic \& Embodied Long CoT
 
 - *Reasoning with language model is planning with world model*, **Hao et al.**, `2023.05` [[Link](https://arxiv.org/abs/2305.14992)]
@@ -624,6 +634,7 @@ Wang and Yu Qiao and Ping Luo et al.**, `2024.01` [[Link](https://openreview.net
 - *Agents Thinking Fast and Slow: A Talker-Reasoner Architecture*, **Konstantina Christakopoulou and Shibl Mourad and Maja Mataric et al.**, `2024.10` [[Link](https://openreview.net/forum?id=xPhcP6rbI4)]
 - *Titans: Learning to memorize at test time*, **Behrouz et al.**, `2025.01` [[Link](https://arxiv.org/abs/2501.00663)]
 - *Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success*, **Kim et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.19645)]
+
 
 ### Efficient Long CoT
 
@@ -668,6 +679,7 @@ Wang and Yu Qiao and Ping Luo et al.**, `2024.01` [[Link](https://openreview.net
 - *SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs*, **Xu et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.12134)]
 - *LightThinker: Thinking Step-by-Step Compression*, **Zhang et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.15589)]
 
+
 ### Knowledge-Augmented Long CoT
 
 - *Understanding Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation*, **Wang et al.**, `2024.07` [[Link](https://proceedings.mlr.press/v235/wang24a.html)]
@@ -691,6 +703,7 @@ Wang and Yu Qiao and Ping Luo et al.**, `2024.01` [[Link](https://openreview.net
 - *Towards Robust Legal Reasoning: Harnessing Logical LLMs in Law*, **Kant et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.17638)]
 - *OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning*, **Lu et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.11271)]
 
+
 ### Multilingual Long CoT
 
 - *Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages*, **Qin et al.**, `2023.07`
@@ -704,6 +717,7 @@ Wang and Yu Qiao and Ping Luo et al.**, `2024.01` [[Link](https://openreview.net
 - *A survey of multilingual large language models*, **Qin et al.**, `2025.01`
 - *Demystifying Multilingual Chain-of-Thought in Process Reward Modeling*, **Wang et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.12663)]
 - *The Multilingual Mind: A Survey of Multilingual Reasoning in Language Models*, **Ghosh et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.09457)]
+
 
 ### Multimodal Long CoT
 
@@ -735,6 +749,7 @@ Wang and Yu Qiao and Ping Luo et al.**, `2024.01` [[Link](https://openreview.net
 - *Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step*, **Guo et al.**, `2025.01` [[Link](https://arxiv.org/abs/2501.13926)]
 - *Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking*, **Wu et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.02339)]
 
+
 ### Safety for Long CoT
 
 - *The Impact of Reasoning Step Length on Large Language Models*, **Jin et al.**, `2024.08` [[Link](https://aclanthology.org/2024.findings-acl.108/)]
@@ -759,6 +774,7 @@ Wang and Yu Qiao and Ping Luo et al.**, `2024.01` [[Link](https://openreview.net
 - *H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking*, **Kuo et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.12893)]
 - *BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack*, **Zhu et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.12202)]
 - *SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities*, **Jiang et al.**, `2025.02` [[Link](https://arxiv.org/abs/2502.12025)]
+
 
 ### proper reward design
 
